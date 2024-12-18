@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "831699726806",
+    "firebase_url": "https://hospital-booking-2fa15-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hospital-booking-2fa15",
+    "storage_bucket": "hospital-booking-2fa15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831699726806:android:ed0770374828325b0eb477",
+        "android_client_info": {
+          "package_name": "com.example.otp_hospital_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWyz6oYNNSRbaQOg4ikVEoI02XSFQTEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831699726806:android:abb11aefdd691a780eb477",
+        "android_client_info": {
+          "package_name": "com.henduyentuan.hopitalbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJWyz6oYNNSRbaQOg4ikVEoI02XSFQTEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
